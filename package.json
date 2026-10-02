@@ -3,8 +3,10 @@
     "packageName": "PlgMyFontAwesome",
     "packageType": "plugin",
     "version": "2.0",
-    "dependsOn": "",
-    "isPublished": "1",
+    "dependsOn": [],
+    "isPublished": null,
     "readme": "",
-    "languageUsed": "css"
+    "languageUsed": "css",
+    "description": "",
+    "ltVersion": null
 }
